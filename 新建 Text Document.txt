@@ -1,0 +1,21 @@
+黑马博客管理系统
+
+express框架的使用
+public 静态资源
+model 数据库操作
+route 路由
+views 模板
+middleware中间件函数
+
+Unexpected identifier
+缺少分号
+
+520populate
+一使用populate报错
+Unexpected token R in JSON at position 0
+ref用小写
+
+546本地密码
+
+author作者格式错误
+修改author格式
